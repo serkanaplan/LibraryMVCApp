@@ -1,0 +1,62 @@
+﻿@section Styles {
+    <link rel="stylesheet" href="~/css/Slider.css" asp-append-version="true" />
+
+}
+<div class="col md-5">
+    <div class="slide-show anim">
+        @for (int i = 1; i <= 9; i++)
+        {
+            <div class="slide">
+                @{
+                    var imgpath = ".jpg";
+                }
+                <img src="~/Images/Slider/@i@imgpath"/>
+            </div>
+        }
+        <div class="slidecontainer">
+            <div class="text"></div>
+        </div>
+        <div id="clock" class="dark">
+            <div class="display">
+                <div class="weekdays"></div>
+                <div class="ampm"></div>
+                <div class="alarm"></div>
+                <div class="digits"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-evenly anim">
+        <div class="box">
+            <span></span>
+            <div class="content" >
+                <h2 class="display-6">Aktif Kullanıcı Sayısı</h2>  
+                <h1>400</h1>
+            </div>
+        </div>
+        <div class="box">
+            <span></span>
+            <div class="content">
+                <h2 class="display-6">Aktif Materyal Sayısı</h2>
+                <h1>800</h1>
+            </div>
+        </div>
+        <div class="box">
+            <span></span>
+            <div class="content">
+                <h2 class="display-6">Kullanılan Materyal Sayısı</h2>
+                <h1 class="">500</h1>
+
+            </div>
+        </div>
+
+  </div>
+
+
+</div>
+
+@section Scripts {
+    <script src="~/js/Slider.js" asp-append-version="true"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.0.0/moment.min.js"></script>
+}

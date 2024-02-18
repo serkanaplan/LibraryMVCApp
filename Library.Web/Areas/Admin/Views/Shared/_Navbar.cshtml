@@ -1,0 +1,31 @@
+﻿<nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-action="Read" asp-controller="Book",asp-area="Admin">Admin</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse  d-sm-inline-flex justify-content-between" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" asp-area="Admin" asp-action="Read" asp-controller="Book">Books</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" asp-area="Admin" asp-action="Read" asp-controller="Author">Authors</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" asp-area="Admin" asp-action="Read" asp-controller="Category">Categories</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav">
+                @* bu link bizi home/index e götürecek ama ondan önce asp-area="" taghelperini boş bi şekilde eklemiş olmamız gerekiyor yoksa admin/home a gitmeye çalışacak *@
+                <a target="_blank" class="nav-link active" aria-current="page" asp-area="" asp-action="Index" asp-controller="Home">Web</a>
+
+            </ul>
+            @* <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+            </form> *@
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,65 @@
+﻿@model BookDTOForInsertion
+
+<div class="text-center">
+    <div class="display-6 text-light">Create</div>
+</div>
+<div class="text-danger" asp-validation-summary="All"></div>
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+    <div class="form-group my-3">
+        <label class="text-light my-2" asp-for="Title">Title</label>
+        <input type="text" class="form-control" asp-for="Title">
+    </div>
+    <div class="form-group my-3">
+        <label class="text-light my-2" asp-for="Description">Description</label>
+        <input type="text" class="form-control" asp-for="Description">
+    </div>
+    <div class="form-group  my-2">
+        <label class="text-light my-2" asp-for="CategoryId">Category</label>
+
+        <select class="form-control" asp-for="CategoryId" asp-items="ViewBag.Categories">
+            <option value="">Select Category</option>
+        </select>
+    </div> 
+    <div class="form-group my-3">
+        <label class="text-light my-2" asp-for="AuthorId">Author</label>
+
+        <select class="form-control" asp-for="AuthorId" asp-items="ViewBag.Authors">
+            <option value="">Select Author</option>
+        </select>
+    </div>
+    <div class="form-group my-3">
+        <label class="text-light my-2" asp-for="PublisherId">Publisher</label>
+
+        <select class="form-control" asp-for="PublisherId" asp-items="ViewBag.Publishers">
+            <option value="">Select Publisher</option>
+        </select>
+    </div>
+    <div class="form-group my-3">
+        <label class="text-light my-2" asp-for="LanguageId">Language</label>
+
+        <select class="form-control" asp-for="LanguageId" asp-items="ViewBag.Languages">
+            <option value="">Select Language</option>
+        </select>
+    </div>
+    <div class="form-group my-3">
+        <label class="text-light my-2" asp-for="ShelfId">Shelf</label>
+
+        <select class="form-control" asp-for="ShelfId" asp-items="ViewBag.Shelves">
+            <option value="">Select Shelf</option>
+        </select>
+    </div>
+    <div class="form-group my-3">
+        <label class="text-light my-2" asp-for="Stock">Stock</label>
+        <input type="number" class="form-control" asp-for="Stock">
+    </div>
+    <div class="form-group my-3">
+        <label class="text-light my-2" >Img</label>
+        <input name="file" type="file" class="form-control">
+    </div>
+    <div class="btn-group">
+        <button type="submit" class="btn btn-primary">
+            <i class="fa fa-save"></i> Save
+        </button>
+        <a asp-action="Dashboard" class="btn btn-outline-primary text-light"><i class="fa fa-list"></i>DashBoard</a>
+    </div>
+</form>

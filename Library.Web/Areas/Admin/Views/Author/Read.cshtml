@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AuthorDTO>
+
+
+<div class="text-center text-light">
+    <div class="display-6">Authors</div>
+    <div class="d-flex justify-content-end my-1">
+        <a class="btn btn-outline-success text-light" asp-action="Create">
+            <i class="fa fa-plus"></i> Create
+        </a>
+    </div>
+</div>
+
+<table class="table table-striped table-hover table-dark">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Image Url</th>
+            <th>Name Surname</th>
+            <th>Operations Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.AuthorId</td>
+                <td><img src="~/images/Author/@item.Img" alt="@item.NameSurname" width="80" class="rounded shadow"></td>
+                <td>@item.NameSurname</td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-action="Update" asp-route-id="@item.AuthorId" class="btn btn-warning text-white">
+                            <i class="fa fa-edit"></i> Edit
+                        </a>
+                        <a asp-area="" target="_blank" asp-controller="Book" asp-action="Index" asp-route-id="@item.AuthorId" class="btn btn-info text-white">
+                            <i class="fa fa-search"></i> web
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.AuthorId" class="btn btn-danger">
+                            <i class="fa fa-trash"></i> Delete
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

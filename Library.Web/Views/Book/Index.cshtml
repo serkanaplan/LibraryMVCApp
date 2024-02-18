@@ -1,0 +1,38 @@
+﻿@section Styles {
+    <link rel="stylesheet" href="~/css/BookCard.css" asp-append-version="true" />
+
+}
+
+@model List<BooksWithAuthorAndCategoryDTO>
+<div class="mycontainer">
+
+    @foreach (var item in Model)
+	{
+		<div class="card item anim">
+			<div class="poster"><img src="~/images/book/@item.Img"></div>
+			<div class="details">
+				<h1>@item.Title</h1>
+				<h2>@item.Author.NameSurname</h2>
+				<div class="rating">
+					<i class="fas fa-star"></i>
+					<i class="fas fa-star"></i>
+					<i class="fas fa-star"></i>
+					<i class="fas fa-star"></i>
+					<i class="fas fa-star"></i>
+					<span>4.2/5</span>
+				</div>
+				<div class="tags">
+					<span class="tag">Italian</span>
+					<span class="tag">@item.Category.Name</span>
+				</div>
+				<p class="desc">
+					@item.Description
+				</p>
+				<button class="shadow__btn">
+					Detay
+				</button>
+			</div>
+		</div>
+	}
+
+</div>
