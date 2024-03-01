@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cY0pfuIwiU1Rqwnar5fkktbOB1h5mu2i5q91v2ErKEyVhfXvmxSi0u9pVKdsny4i9FNrJg4oFGD9JVKUA/bA/w==",
+  "dgSpecHash": "Vp6n3nGpei9aFIewlYfCHggvdcuN6nGAcjUJSjsdsBOaEXF92fvZS84Vxp5zb21M+liWVAHrTEP6uIG4/YVs/Q==",
   "success": true,
-  "projectFilePath": "D:\\LibraryManagementSystem\\Library.Repository\\Library.Repository.csproj",
+  "projectFilePath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Repository\\Library.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serka\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\serka\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

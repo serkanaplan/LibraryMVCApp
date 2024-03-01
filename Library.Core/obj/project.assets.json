@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj",
+      "projectUniqueName": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj",
       "projectName": "Library.Core",
-      "projectPath": "D:\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj",
+      "projectPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj",
       "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-      "outputPath": "D:\\LibraryManagementSystem\\Library.Core\\obj\\",
+      "outputPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",

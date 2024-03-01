@@ -1,8 +1,6 @@
 //api den önce appsettings.json doyasýna istek atacaðýmýz url yi þu þekil ekledik :"BaseUrl": "https://localhost:7223/api",
 using FluentValidation;
 using FluentValidation.AspNetCore;
-using Library.Core.DTOs;
-using Library.Service.Validations;
 using Library.Web.Services;
 
 var builder = WebApplication.CreateBuilder(args);

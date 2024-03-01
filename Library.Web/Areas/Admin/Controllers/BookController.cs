@@ -31,8 +31,10 @@ public class BookController : Controller
         return View(model);
     }
 
-    public IActionResult Create()
+    [HttpGet]
+    public async Task<IActionResult> Create()
     {
+        await Selectedlists();
         return View();
     }
 
@@ -51,7 +53,7 @@ public class BookController : Controller
             }
             bookDTOForInsertion.Img = file.FileName;
             _ = _bookApiService.CreateBook(bookDTOForInsertion);
-            return RedirectToAction("Dashboard");
+            return RedirectToAction("Read");
         }
         return View();
     }
@@ -78,7 +80,7 @@ public class BookController : Controller
             }
             bookDtoforupdate.Img = file.FileName;
             await _bookApiService.UpdateBook(bookDtoforupdate);
-            return RedirectToAction("Dashboard");
+            return RedirectToAction("Read");
         }
         return View();
     }
@@ -87,7 +89,7 @@ public class BookController : Controller
     public IActionResult Delete([FromRoute(Name = "id")] int id)
     {
         _ = _bookApiService.DeleteBook(id);
-        return RedirectToAction("Dashboard");
+        return RedirectToAction("Read");
     }
 
     public async Task Selectedlists()

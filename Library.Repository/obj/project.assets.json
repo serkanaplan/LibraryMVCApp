@@ -2682,11 +2682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LibraryManagementSystem\\Library.Repository\\Library.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Repository\\Library.Repository.csproj",
       "projectName": "Library.Repository",
-      "projectPath": "D:\\LibraryManagementSystem\\Library.Repository\\Library.Repository.csproj",
+      "projectPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Repository\\Library.Repository.csproj",
       "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-      "outputPath": "D:\\LibraryManagementSystem\\Library.Repository\\obj\\",
+      "outputPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2703,8 +2703,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj": {
-              "projectPath": "D:\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj"
+            "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj": {
+              "projectPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Core\\Library.Core.csproj"
             }
           }
         }

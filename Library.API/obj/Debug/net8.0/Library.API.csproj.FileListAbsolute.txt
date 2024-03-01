@@ -451,3 +451,4 @@ D:\LibraryManagementSystem\Library.API\obj\Debug\net8.0\refint\Library.API.dll
 D:\LibraryManagementSystem\Library.API\obj\Debug\net8.0\Library.API.pdb
 D:\LibraryManagementSystem\Library.API\obj\Debug\net8.0\Library.API.genruntimeconfig.cache
 D:\LibraryManagementSystem\Library.API\obj\Debug\net8.0\ref\Library.API.dll
+C:\Users\serka\Desktop\LibraryManagementSystem\Library.API\obj\Debug\net8.0\Library.API.sourcelink.json

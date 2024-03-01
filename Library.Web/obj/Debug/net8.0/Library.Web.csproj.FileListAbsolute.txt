@@ -241,3 +241,5 @@ D:\LibraryManagementSystem\Library.Web\obj\Debug\net8.0\refint\Library.Web.dll
 D:\LibraryManagementSystem\Library.Web\obj\Debug\net8.0\Library.Web.pdb
 D:\LibraryManagementSystem\Library.Web\obj\Debug\net8.0\Library.Web.genruntimeconfig.cache
 D:\LibraryManagementSystem\Library.Web\obj\Debug\net8.0\ref\Library.Web.dll
+D:\LibraryManagementSystem\Library.Web\obj\Debug\net8.0\Library.Web.sourcelink.json
+C:\Users\serka\Desktop\LibraryManagementSystem\Library.Web\obj\Debug\net8.0\Library.Web.sourcelink.json

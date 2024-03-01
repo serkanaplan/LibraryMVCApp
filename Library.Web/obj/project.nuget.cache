@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LbeC1WZpbB6arNBb5ldEde0acnXYQ/Qv1NYFUwBF75+YWKzwgWJwvlYnhHOAOYdOKWtcep9kB3vt+M17kuLQpA==",
+  "dgSpecHash": "DQ6vEFhfZfcbcmT79GdvHMeSIAkM06pPdqfaasEUQn73K2I+3s4nVpEgEhTAs8o/HunaI1veIe5EM1V/+kqtdQ==",
   "success": true,
-  "projectFilePath": "D:\\LibraryManagementSystem\\Library.Web\\Library.Web.csproj",
+  "projectFilePath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Web\\Library.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serka\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\serka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

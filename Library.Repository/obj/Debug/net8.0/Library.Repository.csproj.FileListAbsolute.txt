@@ -43,3 +43,4 @@ D:\LibraryManagementSystem\Library.Repository\obj\Debug\net8.0\Library.Repositor
 D:\LibraryManagementSystem\Library.Repository\obj\Debug\net8.0\refint\Library.Repository.dll
 D:\LibraryManagementSystem\Library.Repository\obj\Debug\net8.0\Library.Repository.pdb
 D:\LibraryManagementSystem\Library.Repository\obj\Debug\net8.0\ref\Library.Repository.dll
+C:\Users\serka\Desktop\LibraryManagementSystem\Library.Repository\obj\Debug\net8.0\Library.Repository.sourcelink.json

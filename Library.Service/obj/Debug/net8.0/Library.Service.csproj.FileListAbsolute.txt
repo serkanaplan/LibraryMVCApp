@@ -49,3 +49,4 @@ D:\LibraryManagementSystem\Library.Service\obj\Debug\net8.0\Library.Service.dll
 D:\LibraryManagementSystem\Library.Service\obj\Debug\net8.0\refint\Library.Service.dll
 D:\LibraryManagementSystem\Library.Service\obj\Debug\net8.0\Library.Service.pdb
 D:\LibraryManagementSystem\Library.Service\obj\Debug\net8.0\ref\Library.Service.dll
+C:\Users\serka\Desktop\LibraryManagementSystem\Library.Service\obj\Debug\net8.0\Library.Service.sourcelink.json

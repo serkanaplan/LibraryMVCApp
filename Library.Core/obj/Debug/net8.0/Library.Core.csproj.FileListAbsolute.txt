@@ -31,3 +31,4 @@ D:\LibraryManagementSystem\Library.Core\obj\Debug\net8.0\Library.Core.dll
 D:\LibraryManagementSystem\Library.Core\obj\Debug\net8.0\refint\Library.Core.dll
 D:\LibraryManagementSystem\Library.Core\obj\Debug\net8.0\Library.Core.pdb
 D:\LibraryManagementSystem\Library.Core\obj\Debug\net8.0\ref\Library.Core.dll
+C:\Users\serka\Desktop\LibraryManagementSystem\Library.Core\obj\Debug\net8.0\Library.Core.sourcelink.json

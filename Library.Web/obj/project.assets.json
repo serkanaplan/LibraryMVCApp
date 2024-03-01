@@ -2888,11 +2888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LibraryManagementSystem\\Library.Web\\Library.Web.csproj",
+      "projectUniqueName": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Web\\Library.Web.csproj",
       "projectName": "Library.Web",
-      "projectPath": "D:\\LibraryManagementSystem\\Library.Web\\Library.Web.csproj",
+      "projectPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Web\\Library.Web.csproj",
       "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
-      "outputPath": "D:\\LibraryManagementSystem\\Library.Web\\obj\\",
+      "outputPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2909,8 +2909,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\LibraryManagementSystem\\Library.Service\\Library.Service.csproj": {
-              "projectPath": "D:\\LibraryManagementSystem\\Library.Service\\Library.Service.csproj"
+            "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Service\\Library.Service.csproj": {
+              "projectPath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.Service\\Library.Service.csproj"
             }
           }
         }

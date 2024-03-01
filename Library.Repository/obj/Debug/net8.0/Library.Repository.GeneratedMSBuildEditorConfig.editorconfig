@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Library.Repository
-build_property.ProjectDir = D:\LibraryManagementSystem\Library.Repository\
+build_property.ProjectDir = C:\Users\serka\Desktop\LibraryManagementSystem\Library.Repository\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

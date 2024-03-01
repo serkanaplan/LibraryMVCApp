@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4fJZVHhDR+PceGqvDB9rAdQdpbYkntNYLaVx7t57+3xs2CJO4OARcm5q4tj3ErJFFiIVMU31LF8olz801Wi6Q==",
+  "dgSpecHash": "ljFBPo2TO8hQZfZPeXU2EJXoeSf0NC0fL2M4yGHVLFG9Je+OAk5/auwO3AOf3XJSr8zLsvv416RXfuskifiZ9Q==",
   "success": true,
-  "projectFilePath": "D:\\LibraryManagementSystem\\Library.API\\Library.API.csproj",
+  "projectFilePath": "C:\\Users\\serka\\Desktop\\LibraryManagementSystem\\Library.API\\Library.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serka\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\serka\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",

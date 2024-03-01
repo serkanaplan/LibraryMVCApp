@@ -9,87 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Library.Web
 build_property.RootNamespace = Library.Web
-build_property.ProjectDir = D:\LibraryManagementSystem\Library.Web\
+build_property.ProjectDir = C:\Users\serka\Desktop\LibraryManagementSystem\Library.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\LibraryManagementSystem\Library.Web
+build_property.MSBuildProjectDirectory = C:\Users\serka\Desktop\LibraryManagementSystem\Library.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Author/Read.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Author/Read.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aG9yXFJlYWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Book/Create.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Book/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Book/Read.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Book/Read.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va1xSZWFkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Book/Update.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Book/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Category/Read.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Category/Read.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcUmVhZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Shared/_Navbar.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Author/Index.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Author/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Book/Index.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Book/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Category/Index.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Home/Contact.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Home/Index.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Shared/Error.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Shared/_Layout.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/_ViewImports.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LibraryManagementSystem/Library.Web/Views/_ViewStart.cshtml]
+[C:/Users/serka/Desktop/LibraryManagementSystem/Library.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
